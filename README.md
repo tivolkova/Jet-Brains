@@ -1,2 +1,2 @@
-# Jet-Brains
+# Jet-Brains-LastPensil
 Projects for JetBrains
